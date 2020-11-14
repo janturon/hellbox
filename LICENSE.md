@@ -2,10 +2,16 @@
 
 Jan Turoň <janturon@email.cz>
 
-1. All consequences by using this product is your responsibility. For any attempt to blame others you GO TO HELL.
+1. Thou shalt not blame others for thy faults.
 
-2. You are allowed to distribute, modify and sell this product as long as you keep this license with the product unchanged and follow these license conditions.
+2. Coding is your bread. Thou shalt not become a lawyer. Thou shalt not hire lawyers, nor give them money.
 
-3. If your code doesn't have exactly 666 bytes, you are must shoot a video of yourself doing one push-up for every extra or missing byte of your code. This video has to be uploaded publicaly on-line, kept alive and the link to that video has to be distributed with your product.
+3. The HELL licensed code (H) shall be 666 bytes long, no less, no more, with good readability and proper indentation.
 
-4. If you are a lawyer or similar, you will GO TO HELL.
+4. Anyone can code extensions (E) to H. E must be H. The original code (L) must give some functionality without E.
+
+5. E won't depend on anything but L. L shall not have dependencies.
+
+6. Stripping this file from H (or altering it) is a taboo.
+
+6.6 If you fail to obey commandments 1-6, your thoughts are impure and you will GO TO HELL.
